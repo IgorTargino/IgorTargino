@@ -1,20 +1,35 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**IgorTargino/IgorTargino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Oi! Prazer, me chamo Igor &nbsp;✌
 
-[Igor Targino].(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+### 🧔&nbsp; Sobre
+- ⏳&nbsp; Tenho 20 anos de idade.
+- 💻&nbsp; Desenvolvedor Front-End.
+- 🎓&nbsp; Estudante de Engenharia da Computação.
+- 🔌&nbsp; Técnico em eletroeletrônica.
 
-Here are some ideas to get you started:
+Atualmente estudo e desenvolvo aplicações Web utilizando React. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - 🧠&nbsp; Tecnologias
+- 🛠 &nbsp;
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+  ![Next](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=next.js)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=hotpink)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?&style=flat&logo=typescript)
+- 🤖 &nbsp;
+  ![C](https://img.shields.io/badge/c-333333?&style=flat&logo=c)
+  ![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=c%2B%2B)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
+### - 📫&nbsp; Me encontre em outro lugar
 
+💼&nbsp; [Linkedin](https://www.linkedin.com/in/igor-targino/) <br>
+📷&nbsp; [Instagram](https://www.instagram.com/igu.targino/)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddiegoreis&layout=compact&theme=radical" alt="My Github Stats">
