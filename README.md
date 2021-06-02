@@ -3,7 +3,7 @@
 ## Oi! Prazer, me chamo Igor &nbsp;✌
 
 ### 🧔&nbsp; Sobre
-- ⏳&nbsp; Tenho 20 anos de idade.
+- ⏳&nbsp; 20 anos de idade.
 - 💻&nbsp; Desenvolvedor Front-End.
 - 🎓&nbsp; Estudante de Engenharia da Computação.
 - 🔌&nbsp; Técnico em eletroeletrônica.
