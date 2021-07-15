@@ -29,7 +29,6 @@ Atualmente estudo e desenvolvo aplicações Web utilizando React.
 
 ### - 📫&nbsp; Me encontre em outro lugar
 
-💼&nbsp; [Linkedin](https://www.linkedin.com/in/igor-targino/) <br>
-📷&nbsp; [Instagram](https://www.instagram.com/igu.targino/)
+💼&nbsp; [Linkedin](https://www.linkedin.com/in/igor-targino/)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTargino&layout=compact&theme=radical" alt="My Github Stats">
