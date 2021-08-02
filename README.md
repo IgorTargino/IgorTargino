@@ -4,7 +4,7 @@
 
 ### 🧔&nbsp; Sobre
 - ⏳&nbsp; 20 anos de idade.
-- 💻&nbsp; Desenvolvedor Front-End.
+- 💻&nbsp; Estagiário de desenvolvimento de sistemas - FullStack.
 - 🎓&nbsp; Estudante de Engenharia da Computação.
 - 🔌&nbsp; Técnico em eletroeletrônica.
 
