@@ -17,6 +17,8 @@ Atualmente estudo e desenvolvo aplicações Web utilizando React.
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=hotpink)
+  ![style: styled-components](https://img.shields.io/badge/%F0%9F%92%85%20styled--components-333333?style=flat&logo=styled--components)
+- 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?&style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
@@ -31,6 +33,7 @@ Atualmente estudo e desenvolvo aplicações Web utilizando React.
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 
 ### - 📫&nbsp; Me encontre em outro lugar
 
