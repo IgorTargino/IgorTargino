@@ -9,8 +9,6 @@
 - 🎓&nbsp; Estudante de Engenharia da Computação.
 - 🔌&nbsp; Técnico em eletroeletrônica.
 
-Atualmente estudo e desenvolvo aplicações Web utilizando React.
-
 ### - 🧠&nbsp; Tecnologias
 
 - 🌐 &nbsp;
