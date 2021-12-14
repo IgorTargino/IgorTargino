@@ -26,10 +26,8 @@
   ![Node](https://img.shields.io/badge/-node-333333?style=flat&logo=node)
   ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express)
   ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
-  ![Laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
 - 🤖 &nbsp;
   ![C](https://img.shields.io/badge/c-333333?&style=flat&logo=c)
-  ![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=c%2B%2B)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
