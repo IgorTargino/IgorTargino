@@ -5,7 +5,7 @@
 ### 🧔&nbsp; Sobre
 
 - ⏳&nbsp; 20 anos de idade.
-- 💻&nbsp; Estagiário de desenvolvimento de sistemas - FullStack.
+- 💻&nbsp; FullStack Junior.
 - 🎓&nbsp; Estudante de Engenharia da Computação.
 - 🔌&nbsp; Técnico em eletroeletrônica.
 
