@@ -21,7 +21,6 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?&style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
   ![Next](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=next.js)
-  ![Storybook](https://img.shields.io/badge/-Storybook-333333?&style=flat&logo=Storybook)
 - 🛠 &nbsp;
   ![Node](https://img.shields.io/badge/-node-333333?style=flat&logo=node)
   ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express)
