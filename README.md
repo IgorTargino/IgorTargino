@@ -24,7 +24,6 @@
 - 🛠 &nbsp;
   ![Node](https://img.shields.io/badge/-node-333333?style=flat&logo=node)
   ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express)
-  ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
 - 🤖 &nbsp;
   ![C](https://img.shields.io/badge/c-333333?&style=flat&logo=c)
 - ⚙️ &nbsp;
