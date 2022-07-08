@@ -4,7 +4,7 @@
 
 ### 🧔&nbsp; Sobre
 
-- ⏳&nbsp; 20 anos de idade.
+- ⏳&nbsp; 21 anos de idade.
 - 💻&nbsp; FullStack Junior.
 - 🎓&nbsp; Estudante de Engenharia da Computação.
 - 🔌&nbsp; Técnico em eletroeletrônica.
