@@ -5,7 +5,7 @@
 ### 🧔&nbsp; Sobre
 
 - ⏳&nbsp; 21 anos de idade.
-- 💻&nbsp; FullStack Junior (React|Node).
+- 💻&nbsp; Desenvolvedor FullStack (React|Node).
 - 🎓&nbsp; Estudante de Engenharia da Computação.
 - 🔌&nbsp; Técnico em eletroeletrônica.
 
