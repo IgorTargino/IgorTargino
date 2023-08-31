@@ -1,38 +1,40 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+### Welcome 👋
 
-## Oi! Prazer, me chamo Igor &nbsp;✌
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-targino/)](https://www.linkedin.com/in/igor-targino/)
 
-### 🧔&nbsp; Sobre
+I am Mid Software Engineer specializing in the JavaScript/Typescript stack (ReactJS, React Native, Node.js).
 
-- ⏳&nbsp; 22 anos de idade.
-- 💻&nbsp; Desenvolvedor FullStack (React|Node).
-- 🎓&nbsp; Estudante de Engenharia da Computação.
-- 🔌&nbsp; Técnico em eletroeletrônica.
+**Front-end experiences**
+- HTML, CSS and VanillaJS
+- Typescript
+- React, NextJS and JQuery
+- Testing with Jest, Cypress and React Testing Library
+- API's integrations
+- Documentation UI components with Storybook
+- Development UI Librarys
+- Responsive Layout
+- Usability
+- SEO
+- Clean code
 
-### - 🧠&nbsp; Tecnologias
+**Back-end experiences**
+- NodeJS, Express and NestJs
+- Typescript
+- Jest
+- MySQL, Sql Server, SQLite, Mongo
+- API's REST and SOAP integrations
+- Clean code
+- Microservice and Monolithic APIs
+- SOLID
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=hotpink)
-  ![style: styled-components](https://img.shields.io/badge/%F0%9F%92%85%20styled--components-333333?style=flat&logo=styled--components)
-- 💻 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?&style=flat&logo=typescript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
-  ![Next](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=next.js)
-- 🛠 &nbsp;
-  ![Node](https://img.shields.io/badge/-node-333333?style=flat&logo=node)
-  ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express)
-- 🤖 &nbsp;
-  ![C](https://img.shields.io/badge/c-333333?&style=flat&logo=c)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
+**Tools**
+- GIT versioning code (CI/CD).
+- Docker and Docker compose
+- Azure Devops
+- Linux
 
-### - 📫&nbsp; Me encontre em outro lugar
-
-💼&nbsp; [Linkedin](https://www.linkedin.com/in/igor-targino/)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTargino&layout=compact&theme=radical" alt="My Github Stats">
+**Experience in other languages and tools**
+- React Native for mobile development
+- Python, PyTest. Unittest
+- PHP, Laravel and Frameork YII for api's developments
+- C/C++ for development embebed systems
