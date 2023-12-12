@@ -13,10 +13,7 @@ I am Mid Software Engineer specializing in the JavaScript/Typescript stack (Reac
 - Documentation UI components with Storybook
 - Development UI Librarys
 - Responsive Layout
-- Usability
-- SEO
-- Clean code
-
+  
 **Back-end experiences**
 - NodeJS, Express and NestJs
 - Typescript
