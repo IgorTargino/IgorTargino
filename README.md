@@ -10,7 +10,7 @@
   
 **Back-end experiences**
 - Javascript, Typescript, Python;
-- NodeJS, Express, NestJs, Fast API;
+- NodeJS, Express, NestJs, Fast API, SOAP;
 - MySQL, Sql Server, SQLite, Mongo;
 - Jest, Swagger, PyTest;
 
@@ -19,5 +19,5 @@
 
 **Experience in other languages and tools**
 - Python, PyTest. Unittest;
-- PHP, Laravel, Frameork YII, SOAP;
+- PHP, Laravel, Frameork YII;
 - C/C++;
