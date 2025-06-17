@@ -1,7 +1,7 @@
 ### Welcome 
 
 ### Main Proejcts
-- Currently software developer providing services for Mutant in project at VIVO Telefonica
+- Currently software developer providing services for Mutant
 
 **Front-end experiences**
 - React, React Native, NextJS, Lit 3, JQuery;
